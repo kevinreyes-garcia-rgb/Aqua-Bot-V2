@@ -32,7 +32,7 @@ Este proyecto es el resultado del trabajo en equipo y la pasión de:
 
 | ✨ Rol | 👤 Desarrollador |
 | :--- | :--- |
-| **Lead Dev** | [KG359](kevinreyes-garcia-rgb) |
+| **Lead Dev** | [KG359](https://github.com/kevinreyes-garcia-rgb/Aqua-Bot.git) |
 | **Colaboradora** | [Cuervita](https://github.com/Cuervita) |
 
 ---
