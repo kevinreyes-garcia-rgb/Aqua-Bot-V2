@@ -35,7 +35,7 @@ Este proyecto es el resultado del trabajo en equipo y la pasión de:
 
 |💧Rol | 👤 Desarrollador |
 | :--- | :--- |
-| **Lead Dev** | [Klee](https://github.com/kevinreyes-garcia-rgb/) |
+| **Lead Dev** | [🍁🏵Klee🏵🍁](https://github.com/kevinreyes-garcia-rgb/) |
 | **Colaboradora** | [𓅨𝘾𝙪𝙚𝙧𝙫𝙞𝙩𝙖𓅨](https://github.com/rezemd56-hash/) |
 
 ---
