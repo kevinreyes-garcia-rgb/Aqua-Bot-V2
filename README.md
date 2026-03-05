@@ -2,6 +2,8 @@
 
 ¡Hola! Estás ante un proyecto único desarrollado con mucha dedicación. Este es un chatbot diseñado para ser tu mano derecha en múltiples tareas, combinando utilidad, descargas y creatividad visual en un solo lugar.
 
+> **Denle estrellitas a este proyecto para apoyarnos y darnos mas inspiracion para mejorarlo o crear mas proyectos y para agregar mas miembros al equipo de desarrollo.**
+
 ---
 
 ## Portada del Proyecto
