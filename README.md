@@ -62,4 +62,23 @@ https://kevinreyes-garcia-rgb.github.io/Aqua-Bot-V2/
 ```
 
 </details>
-xd
+
+<details>
+   <summary>Contactar con Klee</summary>
+
+[Correo](kevin.reyes-garcia@aceamandla.org)
+
+```
+kevin.reyes-garcia@aceamandla.org
+```
+
+</details>
+
+<details>
+   <summary>Contactar con Cuervita</summary>
+
+[WhatsApp]()
+[WhatsApp Chanel]()
+[Correo](rezemd56@gmail.com)
+   
+</details>
