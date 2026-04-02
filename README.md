@@ -50,23 +50,14 @@ Como estamos en **fase de desarrollo**, esto es lo que viene pronto:
 
 ---
 
-## 🛠️ Instalación y Uso
-
-Si quieres probar el bot localmente, sigue estos pasos:
-
-1. **Clonar el repositorio:**
-   ```bash
-   https://kevinreyes-garcia-rgb.github.io/Aqua-Bot-V2/
-
-**Instalacion**
 <details>
-   <summary> </summary>
+   <summary>Instalacion</summary>
+   
    ```
-[Link Directo](https://kevinreyes-garcia-rgb.github.io/Aqua-Bot-V2/
+   [Link Directo](https://kevinreyes-garcia-rgb.github.io/Aqua-Bot-V2/
 )
 link escrito https://kevinreyes-garcia-rgb.github.io/Aqua-Bot-V2/
    
    ```
 </details>
-
-[Link](https://kevinreyes-garcia-rgb.github.io/Aqua-Bot-V2/)
+xd
