@@ -53,12 +53,13 @@ Como estamos en **fase de desarrollo**, esto es lo que viene pronto:
 <details>
    <summary>Instalacion</summary>
    
-   ```
 [Link Directo](https://kevinreyes-garcia-rgb.github.io/Aqua-Bot-V2/
 )
 
-link escrito https://kevinreyes-garcia-rgb.github.io/Aqua-Bot-V2/
-   
-   ```
+link escrito 
+```
+https://kevinreyes-garcia-rgb.github.io/Aqua-Bot-V2/
+```
+
 </details>
 xd
