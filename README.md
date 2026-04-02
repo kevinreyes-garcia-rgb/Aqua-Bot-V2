@@ -58,4 +58,15 @@ Si quieres probar el bot localmente, sigue estos pasos:
    ```bash
    https://kevinreyes-garcia-rgb.github.io/Aqua-Bot-V2/
 
+**Instalacion**
+<details>
+   <summary> </summary>
+   ```
+[Link Directo](https://kevinreyes-garcia-rgb.github.io/Aqua-Bot-V2/
+)
+link escrito https://kevinreyes-garcia-rgb.github.io/Aqua-Bot-V2/
+   
+   ```
+</details>
+
 [Link](https://kevinreyes-garcia-rgb.github.io/Aqua-Bot-V2/)
